@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8"/>
+    <title>第一个HTML页面</title>
+    <script type="text/javascript" src="static/jquery-1.9.1.min.js"></script>
+</head>
+<body>
+<h1>Hello Spring Boot!!!</h1>
+<p th:text="${key}"></p>
+<a href="/index2">去第2個頁面</a>
+<input type="text" name="test" id="test" />
+<input type="button" onclick="getinput()" value="getinput" />
+</body>
+<script type="text/javascript">
+	function getinput(){
+		
+		var ss = $("#test").val();
+		alert(ss);
+	}
+
+</script>
+</html>

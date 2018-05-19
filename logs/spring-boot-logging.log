@@ -1,0 +1,388 @@
+2018-04-26 11:49:25.389  INFO 8484 --- [main] com.example.Application                  : Starting Application on Lenovo-PC with PID 8484 (D:\workspace\teamcoud\spring-boot-sample-mybatis\target\classes started by lc in D:\workspace\teamcoud\spring-boot-sample-mybatis)
+2018-04-26 11:49:25.398  INFO 8484 --- [main] com.example.Application                  : No active profile set, falling back to default profiles: default
+2018-04-26 11:49:35.308  INFO 8484 --- [main] o.apache.catalina.core.StandardService   : Starting service Tomcat
+2018-04-26 11:49:35.315  INFO 8484 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.0.33
+2018-04-26 11:49:35.721  INFO 8484 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-26 11:49:46.739  INFO 8484 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2018-04-26 11:49:46.820  INFO 8484 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 2 custom documentation plugin(s)
+2018-04-26 11:49:46.875  INFO 8484 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2018-04-26 11:49:46.962  INFO 8484 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2018-04-26 11:49:47.486  INFO 8484 --- [main] com.example.Application                  : Started Application in 23.338 seconds (JVM running for 24.929)
+2018-04-26 11:49:47.487  INFO 8484 --- [main] com.example.Application                  : SpringBoot Start Success
+2018-04-26 11:50:00.783  INFO 8484 --- [http-nio-8888-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-26 11:50:01.062  INFO 8484 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 11:50:04.150  INFO 8484 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 11:50:04.155  INFO 8484 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:23:50.415  INFO 4908 --- [main] com.example.Application                  : Starting Application on Lenovo-PC with PID 4908 (D:\workspace\teamcoud\spring-boot-sample-mybatis\target\classes started by lc in D:\workspace\teamcoud\spring-boot-sample-mybatis)
+2018-04-26 16:23:50.428  INFO 4908 --- [main] com.example.Application                  : No active profile set, falling back to default profiles: default
+2018-04-26 16:23:58.444  INFO 4908 --- [main] o.apache.catalina.core.StandardService   : Starting service Tomcat
+2018-04-26 16:23:58.455  INFO 4908 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.0.33
+2018-04-26 16:23:58.806  INFO 4908 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-26 16:24:07.985  INFO 4908 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2018-04-26 16:24:08.154  INFO 4908 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 2 custom documentation plugin(s)
+2018-04-26 16:24:08.250  INFO 4908 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2018-04-26 16:24:08.391  INFO 4908 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2018-04-26 16:24:09.311  INFO 4908 --- [main] com.example.Application                  : Started Application in 20.195 seconds (JVM running for 21.51)
+2018-04-26 16:24:09.312  INFO 4908 --- [main] com.example.Application                  : SpringBoot Start Success
+2018-04-26 16:24:20.414  INFO 4908 --- [http-nio-8888-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-26 16:24:20.628  INFO 4908 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:24:20.712  INFO 4908 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:24:22.471  INFO 4908 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:24:45.087  INFO 4908 --- [http-nio-8888-exec-2] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:24:45.096  INFO 4908 --- [http-nio-8888-exec-2] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:24:45.114  INFO 4908 --- [http-nio-8888-exec-2] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:24:45.997  INFO 4908 --- [http-nio-8888-exec-4] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:24:45.999  INFO 4908 --- [http-nio-8888-exec-4] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:24:46.010  INFO 4908 --- [http-nio-8888-exec-4] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:24:47.283  INFO 4908 --- [http-nio-8888-exec-5] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:24:47.287  INFO 4908 --- [http-nio-8888-exec-5] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:24:47.299  INFO 4908 --- [http-nio-8888-exec-5] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:24:47.939  INFO 4908 --- [http-nio-8888-exec-6] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:24:47.945  INFO 4908 --- [http-nio-8888-exec-6] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:24:47.956  INFO 4908 --- [http-nio-8888-exec-6] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:24:48.503  INFO 4908 --- [http-nio-8888-exec-7] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:24:48.506  INFO 4908 --- [http-nio-8888-exec-7] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:24:48.516  INFO 4908 --- [http-nio-8888-exec-7] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:24:49.019  INFO 4908 --- [http-nio-8888-exec-8] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:24:49.021  INFO 4908 --- [http-nio-8888-exec-8] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:24:49.029  INFO 4908 --- [http-nio-8888-exec-8] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:24:49.500  INFO 4908 --- [http-nio-8888-exec-9] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:24:49.507  INFO 4908 --- [http-nio-8888-exec-9] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:24:49.515  INFO 4908 --- [http-nio-8888-exec-9] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:24:49.983  INFO 4908 --- [http-nio-8888-exec-10] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:24:49.988  INFO 4908 --- [http-nio-8888-exec-10] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:24:50.000  INFO 4908 --- [http-nio-8888-exec-10] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:24:50.554  INFO 4908 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:24:50.557  INFO 4908 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:24:50.566  INFO 4908 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:24:51.063  INFO 4908 --- [http-nio-8888-exec-2] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:24:51.065  INFO 4908 --- [http-nio-8888-exec-2] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:24:51.079  INFO 4908 --- [http-nio-8888-exec-2] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:24:51.529  INFO 4908 --- [http-nio-8888-exec-3] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:24:51.531  INFO 4908 --- [http-nio-8888-exec-3] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:24:51.539  INFO 4908 --- [http-nio-8888-exec-3] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:24:52.049  INFO 4908 --- [http-nio-8888-exec-4] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:24:52.052  INFO 4908 --- [http-nio-8888-exec-4] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:24:52.062  INFO 4908 --- [http-nio-8888-exec-4] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:30:01.425  INFO 4908 --- [http-nio-8888-exec-5] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:30:01.428  INFO 4908 --- [http-nio-8888-exec-5] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:30:01.439  INFO 4908 --- [http-nio-8888-exec-5] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:30:02.270  INFO 4908 --- [http-nio-8888-exec-7] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:30:02.272  INFO 4908 --- [http-nio-8888-exec-7] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:30:02.341 ERROR 4908 --- [http-nio-8888-exec-7] o.thymeleaf.templateparser.ErrorHandler  : [THYMELEAF][http-nio-8888-exec-7] Fatal error during parsing
+
+org.xml.sax.SAXParseException: 元素类型 "input" 必须由匹配的结束标记 "</input>" 终止。
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(Unknown Source) [na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(Unknown Source) [na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(Unknown Source) [na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(Unknown Source) [na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(Unknown Source) [na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanEndElement(Unknown Source) [na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(Unknown Source) [na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(Unknown Source) [na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(Unknown Source) [na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) [na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) [na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source) [na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source) [na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source) [na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(Unknown Source) [na:1.8.0_66]
+	at org.thymeleaf.templateparser.xmlsax.AbstractNonValidatingSAXTemplateParser.doParse(AbstractNonValidatingSAXTemplateParser.java:209) [thymeleaf-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.thymeleaf.templateparser.xmlsax.AbstractNonValidatingSAXTemplateParser.parseTemplateUsingPool(AbstractNonValidatingSAXTemplateParser.java:134) [thymeleaf-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.thymeleaf.templateparser.xmlsax.AbstractNonValidatingSAXTemplateParser.parseTemplate(AbstractNonValidatingSAXTemplateParser.java:116) [thymeleaf-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.thymeleaf.TemplateRepository.getTemplate(TemplateRepository.java:278) [thymeleaf-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1104) [thymeleaf-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1060) [thymeleaf-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1011) [thymeleaf-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.thymeleaf.spring4.view.ThymeleafView.renderFragment(ThymeleafView.java:335) [thymeleaf-spring4-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.thymeleaf.spring4.view.ThymeleafView.render(ThymeleafView.java:190) [thymeleaf-spring4-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1246) [spring-webmvc-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1029) [spring-webmvc-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:973) [spring-webmvc-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:895) [spring-webmvc-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:967) [spring-webmvc-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:858) [spring-webmvc-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:622) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:843) [spring-webmvc-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52) [tomcat-embed-websocket-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.springframework.web.servlet.resource.ResourceUrlEncodingFilter.doFilterInternal(ResourceUrlEncodingFilter.java:52) [spring-webmvc-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) [spring-web-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:87) [spring-web-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:77) [spring-web-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:121) [spring-web-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:106) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:522) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1095) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:672) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1502) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1458) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.8.0_66]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.8.0_66]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at java.lang.Thread.run(Unknown Source) [na:1.8.0_66]
+
+2018-04-26 16:30:02.361 ERROR 4908 --- [http-nio-8888-exec-7] org.thymeleaf.TemplateEngine             : [THYMELEAF][http-nio-8888-exec-7] Exception processing template "index": Exception parsing document: template="index", line 14 - column 3
+2018-04-26 16:30:02.560  INFO 4908 --- [http-nio-8888-exec-7] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:30:02.580 ERROR 4908 --- [http-nio-8888-exec-7] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateInputException: Exception parsing document: template="index", line 14 - column 3] with root cause
+
+org.xml.sax.SAXParseException: 元素类型 "input" 必须由匹配的结束标记 "</input>" 终止。
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(Unknown Source) ~[na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(Unknown Source) ~[na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(Unknown Source) ~[na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(Unknown Source) ~[na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(Unknown Source) ~[na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanEndElement(Unknown Source) ~[na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(Unknown Source) ~[na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(Unknown Source) ~[na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(Unknown Source) ~[na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) ~[na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) ~[na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source) ~[na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source) ~[na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source) ~[na:1.8.0_66]
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(Unknown Source) ~[na:1.8.0_66]
+	at org.thymeleaf.templateparser.xmlsax.AbstractNonValidatingSAXTemplateParser.doParse(AbstractNonValidatingSAXTemplateParser.java:209) ~[thymeleaf-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.thymeleaf.templateparser.xmlsax.AbstractNonValidatingSAXTemplateParser.parseTemplateUsingPool(AbstractNonValidatingSAXTemplateParser.java:134) ~[thymeleaf-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.thymeleaf.templateparser.xmlsax.AbstractNonValidatingSAXTemplateParser.parseTemplate(AbstractNonValidatingSAXTemplateParser.java:116) ~[thymeleaf-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.thymeleaf.TemplateRepository.getTemplate(TemplateRepository.java:278) ~[thymeleaf-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1104) ~[thymeleaf-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1060) ~[thymeleaf-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1011) ~[thymeleaf-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.thymeleaf.spring4.view.ThymeleafView.renderFragment(ThymeleafView.java:335) ~[thymeleaf-spring4-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.thymeleaf.spring4.view.ThymeleafView.render(ThymeleafView.java:190) ~[thymeleaf-spring4-2.1.4.RELEASE.jar:2.1.4.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1246) ~[spring-webmvc-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1029) ~[spring-webmvc-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:973) ~[spring-webmvc-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:895) ~[spring-webmvc-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:967) ~[spring-webmvc-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:858) ~[spring-webmvc-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:622) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:843) ~[spring-webmvc-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52) ~[tomcat-embed-websocket-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.springframework.web.servlet.resource.ResourceUrlEncodingFilter.doFilterInternal(ResourceUrlEncodingFilter.java:52) ~[spring-webmvc-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99) ~[spring-web-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:87) ~[spring-web-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:77) ~[spring-web-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:121) ~[spring-web-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) ~[spring-web-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:106) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:522) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1095) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:672) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1502) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1458) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.8.0_66]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.8.0_66]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at java.lang.Thread.run(Unknown Source) [na:1.8.0_66]
+
+2018-04-26 16:30:02.617  INFO 4908 --- [http-nio-8888-exec-7] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:30:02.648  INFO 4908 --- [http-nio-8888-exec-7] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:30:02.682  INFO 4908 --- [http-nio-8888-exec-7] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:30:14.621  INFO 4908 --- [http-nio-8888-exec-8] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:30:14.624  INFO 4908 --- [http-nio-8888-exec-8] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:30:14.633  INFO 4908 --- [http-nio-8888-exec-8] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:30:14.671  INFO 4908 --- [http-nio-8888-exec-9] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:30:14.847  INFO 4908 --- [http-nio-8888-exec-9] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:30:14.848  INFO 4908 --- [http-nio-8888-exec-9] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:30:49.697  INFO 4908 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:30:49.701  INFO 4908 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:30:49.717  INFO 4908 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:30:49.772  INFO 4908 --- [http-nio-8888-exec-2] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:30:49.780  INFO 4908 --- [http-nio-8888-exec-2] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:30:49.781  INFO 4908 --- [http-nio-8888-exec-2] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:30:52.944  INFO 4908 --- [http-nio-8888-exec-3] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:30:52.946  INFO 4908 --- [http-nio-8888-exec-3] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:30:52.959  INFO 4908 --- [http-nio-8888-exec-3] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:30:53.011  INFO 4908 --- [http-nio-8888-exec-4] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:30:53.026  INFO 4908 --- [http-nio-8888-exec-4] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:30:53.026  INFO 4908 --- [http-nio-8888-exec-4] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:31:01.529  INFO 4908 --- [http-nio-8888-exec-5] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:31:01.531  INFO 4908 --- [http-nio-8888-exec-5] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:31:01.535  INFO 4908 --- [http-nio-8888-exec-5] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:32:29.334  INFO 884 --- [main] com.example.Application                  : Starting Application on Lenovo-PC with PID 884 (D:\workspace\teamcoud\spring-boot-sample-mybatis\target\classes started by lc in D:\workspace\teamcoud\spring-boot-sample-mybatis)
+2018-04-26 16:32:29.344  INFO 884 --- [main] com.example.Application                  : No active profile set, falling back to default profiles: default
+2018-04-26 16:32:36.928  INFO 884 --- [main] o.apache.catalina.core.StandardService   : Starting service Tomcat
+2018-04-26 16:32:36.936  INFO 884 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.0.33
+2018-04-26 16:32:37.358  INFO 884 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-26 16:32:45.699  INFO 884 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2018-04-26 16:32:45.774  INFO 884 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 2 custom documentation plugin(s)
+2018-04-26 16:32:45.836  INFO 884 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2018-04-26 16:32:45.910  INFO 884 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2018-04-26 16:32:46.479  INFO 884 --- [main] com.example.Application                  : Started Application in 18.311 seconds (JVM running for 19.65)
+2018-04-26 16:32:46.480  INFO 884 --- [main] com.example.Application                  : SpringBoot Start Success
+2018-04-26 16:33:07.296  INFO 884 --- [http-nio-8888-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-26 16:33:07.551  INFO 884 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:33:07.625  INFO 884 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:33:08.920  INFO 884 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:33:10.989  INFO 884 --- [http-nio-8888-exec-3] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:33:10.992  INFO 884 --- [http-nio-8888-exec-3] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:33:11.008  INFO 884 --- [http-nio-8888-exec-3] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:33:18.581  INFO 884 --- [http-nio-8888-exec-5] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:33:18.585  INFO 884 --- [http-nio-8888-exec-5] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:33:18.599  INFO 884 --- [http-nio-8888-exec-5] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:33:21.085  INFO 884 --- [http-nio-8888-exec-7] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:33:21.090  INFO 884 --- [http-nio-8888-exec-7] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:33:21.104  INFO 884 --- [http-nio-8888-exec-7] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:36:27.385  INFO 8708 --- [main] com.example.Application                  : Starting Application on Lenovo-PC with PID 8708 (D:\workspace\teamcoud\spring-boot-sample-mybatis\target\classes started by lc in D:\workspace\teamcoud\spring-boot-sample-mybatis)
+2018-04-26 16:36:27.409  INFO 8708 --- [main] com.example.Application                  : No active profile set, falling back to default profiles: default
+2018-04-26 16:36:41.065  INFO 8708 --- [main] o.apache.catalina.core.StandardService   : Starting service Tomcat
+2018-04-26 16:36:41.076  INFO 8708 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.0.33
+2018-04-26 16:36:41.628  INFO 8708 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-26 16:36:49.041  INFO 884 --- [http-nio-8888-exec-9] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:36:57.794  INFO 884 --- [http-nio-8888-exec-9] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:36:57.904  INFO 884 --- [http-nio-8888-exec-9] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2018-04-26 16:37:06.274  INFO 8708 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2018-04-26 16:37:06.396  INFO 8708 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 2 custom documentation plugin(s)
+2018-04-26 16:37:06.468  INFO 8708 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2018-04-26 16:37:06.581  INFO 8708 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2018-04-26 16:37:07.171 ERROR 8708 --- [main] o.a.coyote.http11.Http11NioProtocol      : Failed to start end point associated with ProtocolHandler ["http-nio-8888"]
+
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_66]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[na:1.8.0_66]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[na:1.8.0_66]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source) ~[na:1.8.0_66]
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source) ~[na:1.8.0_66]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:340) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:773) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:473) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:986) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:147) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:239) [tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.addPreviouslyRemovedConnectors(TomcatEmbeddedServletContainer.java:194) [spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:151) [spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.startEmbeddedServletContainer(EmbeddedWebApplicationContext.java:293) [spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.finishRefresh(EmbeddedWebApplicationContext.java:141) [spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:541) [spring-context-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:118) [spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:766) [spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at org.springframework.boot.SpringApplication.createAndRefreshContext(SpringApplication.java:361) [spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307) [spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1191) [spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1180) [spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at com.example.Application.main(Application.java:50) [classes/:na]
+
+2018-04-26 16:37:07.179 ERROR 8708 --- [main] o.apache.catalina.core.StandardService   : Failed to start connector [Connector[HTTP/1.1-8888]]
+
+org.apache.catalina.LifecycleException: Failed to start component [Connector[HTTP/1.1-8888]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:153) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:239) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.addPreviouslyRemovedConnectors(TomcatEmbeddedServletContainer.java:194) [spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:151) [spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.startEmbeddedServletContainer(EmbeddedWebApplicationContext.java:293) [spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.finishRefresh(EmbeddedWebApplicationContext.java:141) [spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:541) [spring-context-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:118) [spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:766) [spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at org.springframework.boot.SpringApplication.createAndRefreshContext(SpringApplication.java:361) [spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307) [spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1191) [spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1180) [spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at com.example.Application.main(Application.java:50) [classes/:na]
+Caused by: org.apache.catalina.LifecycleException: service.getName(): "Tomcat";  Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:993) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:147) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	... 13 common frames omitted
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_66]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[na:1.8.0_66]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[na:1.8.0_66]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source) ~[na:1.8.0_66]
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source) ~[na:1.8.0_66]
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:340) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:773) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:473) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:986) ~[tomcat-embed-core-8.0.33.jar:8.0.33]
+	... 14 common frames omitted
+
+2018-04-26 16:37:07.252  INFO 8708 --- [main] o.apache.catalina.core.StandardService   : Stopping service Tomcat
+2018-04-26 16:37:07.359  WARN 8708 --- [localhost-startStop-2] o.a.c.loader.WebappClassLoaderBase       : The web application [ROOT] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(Unknown Source)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:43)
+2018-04-26 16:37:07.497 ERROR 8708 --- [main] o.s.boot.SpringApplication               : Application startup failed
+
+org.springframework.boot.context.embedded.EmbeddedServletContainerException: Unable to start embedded Tomcat servlet container
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:165) ~[spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.startEmbeddedServletContainer(EmbeddedWebApplicationContext.java:293) ~[spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.finishRefresh(EmbeddedWebApplicationContext.java:141) ~[spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:541) ~[spring-context-4.2.6.RELEASE.jar:4.2.6.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:118) ~[spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:766) [spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at org.springframework.boot.SpringApplication.createAndRefreshContext(SpringApplication.java:361) [spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307) [spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1191) [spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1180) [spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	at com.example.Application.main(Application.java:50) [classes/:na]
+Caused by: java.lang.IllegalStateException: Tomcat connector in failed state
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:159) ~[spring-boot-1.3.5.RELEASE.jar:1.3.5.RELEASE]
+	... 10 common frames omitted
+
+2018-04-26 16:37:47.535  INFO 9104 --- [main] com.example.Application                  : Starting Application on Lenovo-PC with PID 9104 (D:\workspace\teamcoud\spring-boot-sample-mybatis\target\classes started by lc in D:\workspace\teamcoud\spring-boot-sample-mybatis)
+2018-04-26 16:37:47.553  INFO 9104 --- [main] com.example.Application                  : No active profile set, falling back to default profiles: default
+2018-04-26 16:37:57.360  INFO 9104 --- [main] o.apache.catalina.core.StandardService   : Starting service Tomcat
+2018-04-26 16:37:57.366  INFO 9104 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.0.33
+2018-04-26 16:37:57.921  INFO 9104 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-26 16:38:13.032  INFO 9104 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2018-04-26 16:38:13.135  INFO 9104 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 2 custom documentation plugin(s)
+2018-04-26 16:38:13.223  INFO 9104 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2018-04-26 16:38:13.339  INFO 9104 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2018-04-26 16:38:14.073  INFO 9104 --- [main] com.example.Application                  : Started Application in 27.983 seconds (JVM running for 29.578)
+2018-04-26 16:38:14.074  INFO 9104 --- [main] com.example.Application                  : SpringBoot Start Success
+2018-04-26 16:38:18.308  INFO 9104 --- [http-nio-8888-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-04-26 16:38:18.546  INFO 9104 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2018-04-26 16:38:20.839 DEBUG 9104 --- [http-nio-8888-exec-1] com.example.mapper.TestMapper.addAll     : ==>  Preparing: INSERT INTO info (id,name,age) VALUES (?,?,?) , (?,?,?) , (?,?,?) , (?,?,?) , (?,?,?) 
+2018-04-26 16:38:20.938 DEBUG 9104 --- [http-nio-8888-exec-1] com.example.mapper.TestMapper.addAll     : ==> Parameters: 1(Long), 张三0(String), 1(Integer), 1(Long), 张三1(String), 1(Integer), 1(Long), 张三2(String), 1(Integer), 1(Long), 张三3(String), 1(Integer), 1(Long), 张三4(String), 1(Integer)
+2018-04-26 16:38:21.060 DEBUG 9104 --- [http-nio-8888-exec-1] com.example.mapper.TestMapper.addAll     : <==    Updates: 5
+2018-04-26 16:38:21.475  INFO 9104 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2018-04-26 16:38:21.617  INFO 9104 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
