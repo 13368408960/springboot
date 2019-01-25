@@ -386,3 +386,89 @@ Caused by: java.lang.IllegalStateException: Tomcat connector in failed state
 2018-04-26 16:38:21.060 DEBUG 9104 --- [http-nio-8888-exec-1] com.example.mapper.TestMapper.addAll     : <==    Updates: 5
 2018-04-26 16:38:21.475  INFO 9104 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
 2018-04-26 16:38:21.617  INFO 9104 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2019-01-25 14:05:37.796  INFO 13456 --- [main] com.example.Application                  : Starting Application on DESKTOP-GR0DTFG with PID 13456 (D:\boot\target\classes started by lichao in D:\boot)
+2019-01-25 14:05:37.799  INFO 13456 --- [main] com.example.Application                  : No active profile set, falling back to default profiles: default
+2019-01-25 14:05:39.320  INFO 13456 --- [main] o.apache.catalina.core.StandardService   : Starting service Tomcat
+2019-01-25 14:05:39.321  INFO 13456 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.0.33
+2019-01-25 14:05:39.410  INFO 13456 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-01-25 14:05:41.042  INFO 13456 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2019-01-25 14:05:41.056  INFO 13456 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 2 custom documentation plugin(s)
+2019-01-25 14:05:41.065  INFO 13456 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2019-01-25 14:05:41.077  INFO 13456 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2019-01-25 14:05:41.165  INFO 13456 --- [main] com.example.Application                  : Started Application in 3.64 seconds (JVM running for 4.671)
+2019-01-25 14:05:41.165  INFO 13456 --- [main] com.example.Application                  : SpringBoot Start Success
+2019-01-25 14:06:03.236  INFO 13456 --- [http-nio-8888-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-01-25 14:06:03.317  WARN 13456 --- [http-nio-8888-exec-1] o.s.web.servlet.PageNotFound             : No mapping found for HTTP request with URI [/] in DispatcherServlet with name 'dispatcherServlet'
+2019-01-25 14:06:03.324  INFO 13456 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2019-01-25 14:06:03.367  INFO 13456 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2019-01-25 14:06:03.414  INFO 13456 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2019-01-25 14:06:24.571  INFO 13456 --- [http-nio-8888-exec-4] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2019-01-25 14:06:24.572  INFO 13456 --- [http-nio-8888-exec-4] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2019-01-25 14:06:24.722  INFO 13456 --- [http-nio-8888-exec-4] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2019-01-25 14:06:26.120  INFO 13456 --- [http-nio-8888-exec-5] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2019-01-25 14:06:26.120  INFO 13456 --- [http-nio-8888-exec-5] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2019-01-25 14:06:26.125  INFO 13456 --- [http-nio-8888-exec-5] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2019-01-25 14:06:43.903  INFO 13456 --- [http-nio-8888-exec-8] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2019-01-25 14:06:43.903  INFO 13456 --- [http-nio-8888-exec-8] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2019-01-25 14:06:43.905  INFO 13456 --- [http-nio-8888-exec-8] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2019-01-25 14:06:44.864  INFO 13456 --- [http-nio-8888-exec-10] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2019-01-25 14:06:44.865  INFO 13456 --- [http-nio-8888-exec-10] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2019-01-25 14:06:44.867  INFO 13456 --- [http-nio-8888-exec-10] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2019-01-25 14:07:02.320  INFO 13456 --- [http-nio-8888-exec-3] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2019-01-25 14:07:02.320  INFO 13456 --- [http-nio-8888-exec-3] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2019-01-25 14:07:02.323  INFO 13456 --- [http-nio-8888-exec-3] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2019-01-25 14:07:03.897  INFO 13456 --- [http-nio-8888-exec-4] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2019-01-25 14:07:03.897  INFO 13456 --- [http-nio-8888-exec-4] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2019-01-25 14:07:03.899  INFO 13456 --- [http-nio-8888-exec-4] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2019-01-25 14:07:27.311  INFO 13456 --- [http-nio-8888-exec-7] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2019-01-25 14:07:27.327  INFO 13456 --- [http-nio-8888-exec-7] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2019-01-25 14:07:27.327  INFO 13456 --- [http-nio-8888-exec-7] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2019-01-25 14:07:29.563  INFO 13456 --- [http-nio-8888-exec-8] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2019-01-25 14:07:29.564  INFO 13456 --- [http-nio-8888-exec-8] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2019-01-25 14:07:29.564  INFO 13456 --- [http-nio-8888-exec-8] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2019-01-25 14:07:45.564  WARN 13456 --- [http-nio-8888-exec-10] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
+2019-01-25 14:07:45.567  INFO 13456 --- [http-nio-8888-exec-10] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2019-01-25 14:07:45.569  INFO 13456 --- [http-nio-8888-exec-10] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2019-01-25 14:07:45.571  INFO 13456 --- [http-nio-8888-exec-10] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2019-01-25 14:07:48.094  WARN 13456 --- [http-nio-8888-exec-1] o.s.web.servlet.PageNotFound             : Request method 'GET' not supported
+2019-01-25 14:07:48.095  INFO 13456 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2019-01-25 14:07:48.095  INFO 13456 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2019-01-25 14:07:48.096  INFO 13456 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2019-01-25 14:32:50.031  INFO 2488 --- [main] com.example.Application                  : Starting Application on DESKTOP-GR0DTFG with PID 2488 (D:\boot\target\classes started by lichao in D:\boot)
+2019-01-25 14:32:50.034  INFO 2488 --- [main] com.example.Application                  : No active profile set, falling back to default profiles: default
+2019-01-25 14:32:51.412  INFO 2488 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-01-25 14:32:51.412  INFO 2488 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.14]
+2019-01-25 14:32:51.417  INFO 2488 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_181\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jdk1.8.0_181\jre\bin;D:\Program Files\Git\cmd;D:\Program Files\mysql-5.6.21-winx64\bin;D:\Program Files\gradle-4.10.1\bin;D:\Program Files\nodejs\;C:\Program Files (x86)\Calibre2\;C:\Users\lichao\AppData\Local\Microsoft\WindowsApps;C:\Users\lichao\AppData\Roaming\npm;.]
+2019-01-25 14:32:51.537  INFO 2488 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-01-25 14:32:52.571  WARN 2488 --- [main] org.thymeleaf.templatemode.TemplateMode  : [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-01-25 14:32:52.803  INFO 2488 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2019-01-25 14:32:52.814  INFO 2488 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 2 custom documentation plugin(s)
+2019-01-25 14:32:52.822  INFO 2488 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2019-01-25 14:32:52.832  INFO 2488 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2019-01-25 14:32:52.907  INFO 2488 --- [main] com.example.Application                  : Started Application in 3.242 seconds (JVM running for 3.904)
+2019-01-25 14:32:52.909  INFO 2488 --- [main] com.example.Application                  : SpringBoot Start Success
+2019-01-25 14:33:03.086  INFO 2488 --- [http-nio-8888-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-01-25 14:33:03.109  INFO 2488 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2019-01-25 14:33:03.137  INFO 2488 --- [http-nio-8888-exec-1] com.example.aop.LogAspect                : 方法环绕start.....
+2019-01-25 14:33:03.138  INFO 2488 --- [http-nio-8888-exec-1] com.example.aop.LogAspect                : URL : http://127.0.0.1:8888/show
+2019-01-25 14:33:03.139  INFO 2488 --- [http-nio-8888-exec-1] com.example.aop.LogAspect                : HTTP_METHOD : GET
+2019-01-25 14:33:03.139  INFO 2488 --- [http-nio-8888-exec-1] com.example.aop.LogAspect                : IP : 127.0.0.1
+2019-01-25 14:33:03.153  INFO 2488 --- [http-nio-8888-exec-1] com.example.aop.LogAspect                : CLASS_METHOD : com.example.service.TestServices.show
+2019-01-25 14:33:03.154  INFO 2488 --- [http-nio-8888-exec-1] com.example.aop.LogAspect                : ARGS : []
+2019-01-25 14:33:03.157  INFO 2488 --- [http-nio-8888-exec-1] com.example.aop.LogAspect                : 方法环绕proceed，结果是 :hello world!
+2019-01-25 14:33:03.157  INFO 2488 --- [http-nio-8888-exec-1] com.example.aop.LogAspect                : 方法最后执行.....
+2019-01-25 14:33:03.157  INFO 2488 --- [http-nio-8888-exec-1] com.example.aop.LogAspect                : 方法的返回值 : hello world!
+2019-01-25 14:33:03.205  INFO 2488 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2019-01-25 14:33:03.205  INFO 2488 --- [http-nio-8888-exec-1] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
+2019-01-25 14:33:05.334  INFO 2488 --- [http-nio-8888-exec-2] com.example.filter.InterceptorConfig     : ---------------------开始进入请求地址拦截----------------------------
+2019-01-25 14:33:05.335  INFO 2488 --- [http-nio-8888-exec-2] com.example.aop.LogAspect                : 方法环绕start.....
+2019-01-25 14:33:05.335  INFO 2488 --- [http-nio-8888-exec-2] com.example.aop.LogAspect                : URL : http://127.0.0.1:8888/show
+2019-01-25 14:33:05.335  INFO 2488 --- [http-nio-8888-exec-2] com.example.aop.LogAspect                : HTTP_METHOD : GET
+2019-01-25 14:33:05.335  INFO 2488 --- [http-nio-8888-exec-2] com.example.aop.LogAspect                : IP : 127.0.0.1
+2019-01-25 14:33:05.335  INFO 2488 --- [http-nio-8888-exec-2] com.example.aop.LogAspect                : CLASS_METHOD : com.example.service.TestServices.show
+2019-01-25 14:33:05.335  INFO 2488 --- [http-nio-8888-exec-2] com.example.aop.LogAspect                : ARGS : []
+2019-01-25 14:33:05.335  INFO 2488 --- [http-nio-8888-exec-2] com.example.aop.LogAspect                : 方法环绕proceed，结果是 :hello world!
+2019-01-25 14:33:05.336  INFO 2488 --- [http-nio-8888-exec-2] com.example.aop.LogAspect                : 方法最后执行.....
+2019-01-25 14:33:05.336  INFO 2488 --- [http-nio-8888-exec-2] com.example.aop.LogAspect                : 方法的返回值 : hello world!
+2019-01-25 14:33:05.337  INFO 2488 --- [http-nio-8888-exec-2] com.example.filter.InterceptorConfig     : --------------处理请求完成后视图渲染之前的处理操作---------------
+2019-01-25 14:33:05.338  INFO 2488 --- [http-nio-8888-exec-2] com.example.filter.InterceptorConfig     : ---------------视图渲染之后的操作-------------------------0
